@@ -1,2 +1,2 @@
-# heimatkunde-dla-dataset
+# The Heimatkunde Dataset
 Heimatkunde dataset for Document Layout Analysis
